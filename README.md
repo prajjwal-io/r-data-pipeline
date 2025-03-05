@@ -1,8 +1,8 @@
-# Time Series Data Transformation Pipeline - https://prajjwaldash.shinyapps.io/r-data-pipeline/
+# Time Series Data Transformation Pipeline 
 
 ## Overview
 
-This RShiny application implements a comprehensive data preparation pipeline for time series analysis, focusing on transformations, statistical validation, and visualization. The system is designed to be robust, extensible, and allow complex transformation compositions using financial time series data from the oil dataset.
+This RShiny application (https://prajjwaldash.shinyapps.io/r-data-pipeline/) implements a comprehensive data preparation pipeline for time series analysis, focusing on transformations, statistical validation, and visualization. The system is designed to be robust, extensible, and allow complex transformation compositions using financial time series data from the oil dataset.
 
 ## Features
 
